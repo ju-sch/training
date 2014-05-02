@@ -2,7 +2,7 @@
 Objekt in Datei
 
 **Description**
-Ein Objekt aus dem Workspace in als Tabelle in eine Datei schreiben
+Ein Objekt aus dem Workspace als Tabelle in eine Datei schreiben
 
 **Usage**
 Objektnamen und Dateinamen anpassen und dann die eine Zeile ausführen
